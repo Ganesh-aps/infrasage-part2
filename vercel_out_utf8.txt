@@ -1,0 +1,31 @@
+﻿node.exe : Loading scopesΓÇª
+At line:1 char:1
++ & "W:\NodeJS/node.exe" "W:\
+NodeJS/node_modules/npm/bin/n
+px-cli.js" ve ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (Loading  
+   scopesΓÇª:String) [], R   
+ emoteException
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+Searching for existing 
+projectsΓÇª
+> Auto-detected Project 
+Settings for Vite
+
+Error: Project names can be 
+up to 100 characters long 
+and must be lowercase. They 
+can include letters, digits, 
+and the following 
+characters: '.', '_', '-'. 
+However, they cannot contain 
+the sequence '---'. (400)
+Learn More: https://vercel.co
+m/docs/projects/overview#proj
+ect-name
